@@ -8,7 +8,12 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  
- 
+<Br> 
+<Br>
+<Br>
+
+### 📊 My GitHub Stats!
 ![leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesh125&theme=material-palenight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh125&layout=compact&theme=nightowl)](https://github.com/leesh125/github-readme-stats)
 
-
+<a href="https://instagram.com/042.h?r=nametag" target="_blank"><img src="https://img.shields.io/badge/Instagram-E2223F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
