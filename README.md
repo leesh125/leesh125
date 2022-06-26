@@ -1,9 +1,16 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,13&height=300&section=header&text=Hello%20World&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,13&height=300&section=header&text=Hello%20World&fontSize=90) -->
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Scott+Lee+%F0%9F%91%8B;Back-End+Engineer;Full-Stack+Developer;" alt="Headline" />
+</div>
 
 ## :sassy_man:  About me
-- 🌱 I’m currently learning Web Development and other programming languages
-- 🔭 I’m currently working <a href="http://www.metanet.co.kr/">Metanet</a>
+- 🌱 저는 Backend Enginner 직무를 맡고 있어요.
+- 🎯 목표를 하는 것이 있으면 어떻게든 이뤄내는 장점이 있어요.
+- 👯 방향을 제시하고 팀원들이 따를 수 있도록 의사소통하는 리더형 인재입니다.
+- 🎓 새로운 기술을 배우는 것을 좋아하는 개발자입니다.
+- 🔭 저는 현재 <a href="http://www.metanet.co.kr/">Metanet</a> 에서 근무중이에요.
+- 📝 꾸준히 성장하는 개발자가 되기위해 1일 1커밋 운동을 하고 있어요 (From 2022.06.19 ~ )
 
 <Br>
 
