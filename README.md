@@ -75,6 +75,7 @@
    <img src="https://img.shields.io/badge/VMware-F88F00.svg?&style=for-the-badge&logo=VMware&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft%20Azure-005B9A.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white">
    <img src="https://img.shields.io/badge/Ansible-000000.svg?&style=for-the-badge&logo=Ansible&logoColor=white">
+   <img src="https://img.shields.io/badge/PyCharm-9BD634.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
  </p>
  
 <Br> 
