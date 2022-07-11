@@ -72,11 +72,11 @@
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C271F.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+   <img src="https://img.shields.io/badge/PyCharm-9BD634.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
    <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
    <img src="https://img.shields.io/badge/VMware-F88F00.svg?&style=for-the-badge&logo=VMware&logoColor=white">
    <img src="https://img.shields.io/badge/Microsoft%20Azure-005B9A.svg?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white">
    <img src="https://img.shields.io/badge/Ansible-000000.svg?&style=for-the-badge&logo=Ansible&logoColor=white">
-   <img src="https://img.shields.io/badge/PyCharm-9BD634.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
  </p>
  
 <Br> 
