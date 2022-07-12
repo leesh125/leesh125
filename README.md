@@ -1,5 +1,5 @@
  
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,13&height=300&section=header&text=Hello%20World&fontSize=90) -->
+
 <Br>
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Scott+Lee+%F0%9F%91%8B;Back-End+Engineer;Full-Stack+Developer;" alt="Headline" />
