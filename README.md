@@ -43,6 +43,7 @@
   <Br>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
  </p>
  <br>
  <h3 align="center">
@@ -54,7 +55,6 @@
    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=Docker&logoColor=white">
    <img src="https://img.shields.io/badge/Kubernetes-0043C0.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white">
    <img src="https://img.shields.io/badge/Tailwind%20CSS-00A2AF.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
    <img src="https://img.shields.io/badge/C-001E9A.svg?&style=for-the-badge&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/Swift-DF4400.svg?&style=for-the-badge&logo=Swift&logoColor=white">
    <img src="https://img.shields.io/badge/PostgreSQL-004079.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white">
