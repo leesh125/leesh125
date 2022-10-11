@@ -30,7 +30,7 @@
  </h3>
  <p align="center">
   <Br>
-  <img src="https://img.shields.io/badge/Java-EEEEEE?style=for-the-badge&logo=Java&logoColor=FF0000">
+  <img src="https://img.shields.io/badge/java-EEEEEE?style=for-the-badge&logo=Java&logoColor=FF0000">
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-3AB02A?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
