@@ -83,7 +83,7 @@
  
 <Br>
 
-### 🏆 Boj(Baekjoon Online Judge) Record
+### 🏆 BOJ(Baekjoon Online Judge) Record
  <Br>
   
  <a href="https://solved.ac/chelsea12345"><img src="http://mazassumnida.wtf/api/generate_badge?boj=chelsea12345"></a>
