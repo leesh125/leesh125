@@ -106,7 +106,7 @@
 <p align="center">
  <a href="https://healthdevelop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github" alt="Tech Blog" width="120" height="33"></a> 
 <a href="mailto:gerrard0125@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="33"></a>
-<a href="mailto:chelsea12345@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" alt="Naver" width="100" height="33"></a>
+<a href="mailto:chelsea12345@naver.com" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white" alt="NAVER" width="100" height="33"></a>
 </p>
 
 <p align="center">
