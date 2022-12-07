@@ -52,6 +52,7 @@
    <Br>
   <p align="center">
    <img src="https://img.shields.io/badge/Django-023300.svg?&style=for-the-badge&logo=Django&logoColor=white">
+   <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=Docker&logoColor=white">
    <img src="https://img.shields.io/badge/Kubernetes-0043C0.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white">
    <img src="https://img.shields.io/badge/Tailwind%20CSS-00A2AF.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white">
